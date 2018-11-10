@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Arya",
+        "image": "/assets/arya.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Brieene",
+        "image": "/assets/brieene.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Bron",
+        "image": "/assets/bronn.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Cercsi",
+        "image": "/assets/cercsi.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Samwell",
+        "image": "/assets/d.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Denarys",
+        "image": "/assets/denarys.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Hound",
+        "image": "/assets/hound.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Jamie",
+        "image": "/assets/jamie.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Sansa",
+        "image": "/assets/sansa.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Jon Snow",
+        "image": "/assets/jonsnow.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Margerie",
+        "image": "/assets/margerie.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Tyrion",
+        "image": "/assets/tyrion.jpg",
+        "clicked": false
+    }
+
+]

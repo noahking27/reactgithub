@@ -1,0 +1,22 @@
+.card {
+    height: 120px;
+    margin: 10px;
+    width: 120px;
+    text-align: center;
+    position: relative;
+    
+}
+
+.card > .img-container {
+    height: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.card > .img-container > img {
+    width: 100%;
+}
+
+.clicked {
+    display: inline-block;
+}
